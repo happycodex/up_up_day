@@ -1,3 +1,5 @@
+package com.weiweihome.util
+
 /**
   * Description：使用自带的substring截取字符串 按照字符截取，该方法按照字节截取
   *
