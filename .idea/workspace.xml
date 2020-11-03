@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a9a3e4-8913-43e6-91ff-d6d185a90069" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/Kafka Producer 内存机制.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/数仓构建.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/数仓构建.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +76,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\宗海新\git_house\up_up_day\src\main\scala\com\weiweihome\datahouse" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.__init__">
     <configuration name="SubString" type="Application" factoryName="Application" temporary="true">
@@ -229,5 +234,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1602205630334" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602501955423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602501955423" />
   </component>
 </project>
