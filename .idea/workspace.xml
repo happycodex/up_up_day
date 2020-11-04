@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00a9a3e4-8913-43e6-91ff-d6d185a90069" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/Kafka Producer 内存机制.md" afterDir="false" />
+    <list default="true" id="00a9a3e4-8913-43e6-91ff-d6d185a90069" name="Default" comment="数仓分层">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/数仓构建.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/数仓构建.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/数据治理.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/weiweihome/datahouse/数据治理.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +168,49 @@
       <option name="project" value="LOCAL" />
       <updated>1569156510533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new infomation.">
+      <created>1604373256876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604373256876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add 盘点任务相关内容">
+      <created>1604373756624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604373756624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add 现状总结">
+      <created>1604390336447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604390336447</updated>
+    </task>
+    <task id="LOCAL-00005" summary="数仓分层">
+      <created>1604450257224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604450257224</updated>
+    </task>
+    <task id="LOCAL-00006" summary="数仓分层">
+      <created>1604451408922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451408923</updated>
+    </task>
+    <task id="LOCAL-00007" summary="数仓分层">
+      <created>1604455880009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604455880009</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -179,6 +222,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -191,7 +259,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first code" />
-    <option name="LAST_COMMIT_MESSAGE" value="first code" />
+    <MESSAGE value="add new infomation." />
+    <MESSAGE value="add 盘点任务相关内容" />
+    <MESSAGE value="add 现状总结" />
+    <MESSAGE value="数仓分层" />
+    <option name="LAST_COMMIT_MESSAGE" value="数仓分层" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="-882" key="#Inspections" timestamp="1601430838304">
@@ -210,6 +282,14 @@
       <screen x="-165" y="-1080" width="1920" height="1040" />
     </state>
     <state x="387" y="-808" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728/-165.-1080.1920.1040@-165.-1080.1920.1040" timestamp="1601430817159" />
+    <state width="352" height="442" key="Diff.GoToChangePopup" timestamp="1604373166790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="352" height="442" key="Diff.GoToChangePopup/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1604373166790" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1604373388125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1604373388125" />
     <state x="587" y="-655" key="FileChooserDialogImpl" timestamp="1601430888434">
       <screen x="-165" y="-1080" width="1920" height="1040" />
     </state>
@@ -234,9 +314,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1602205630334" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602501955423">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604455884570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1604455884570" />
+    <state x="416" y="98" key="VcsDiffUtil.ChangesDialog" timestamp="1604373211215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="98" key="VcsDiffUtil.ChangesDialog/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1604373211215" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604452298186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1604452298186" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604455518227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1604455518227" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602501955423" />
   </component>
 </project>
